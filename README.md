@@ -6,3 +6,6 @@ Source dump of the program used in the election hack
 gcc attack.c -o attack
 ./attack
 ```
+
+
+# This is a joke, please do not sue me.
